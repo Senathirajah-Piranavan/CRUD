@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"John","age":22,"District":"Jaffna"},
+    {"id":2,"name":"Joy","age":26,"District":"Kandy"},
+    {"id":3,"name":"John","age":29,"District":"Colombo"},
+    {"id":4,"name":"John","age":27,"District":"Kandy"},
+    {"id":5,"name":"John","age":32,"District":"Jaffna"},
+    {"id":6,"name":"John","age":41,"District":"Kandy"},
+    {"id":7,"name":"John","age":30,"District":"Colombo"},
+    {"id":8,"name":"John","age":19,"District":"Jaffna"},
+    {"id":9,"name":"John","age":23,"District":"Galle"},
+    {"id":10,"name":"John","age":33,"District":"Jaffna"}
+]
