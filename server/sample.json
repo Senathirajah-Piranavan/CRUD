@@ -1,12 +1,56 @@
 [
-    {"id":1,"name":"John","age":22,"District":"Jaffna"},
-    {"id":2,"name":"Krish","age":26,"District":"Kandy"},
-    {"id":3,"name":"Kumar","age":29,"District":"Colombo"},
-    {"id":4,"name":"Ram","age":27,"District":"Kandy"},
-    {"id":5,"name":"Nimal","age":32,"District":"Jaffna"},
-    {"id":6,"name":"Ravi","age":41,"District":"Kandy"},
-    {"id":7,"name":"Abi","age":30,"District":"Colombo"},
-    {"id":8,"name":"Guna","age":19,"District":"Jaffna"},
-    {"id":9,"name":"Pavi","age":23,"District":"Galle"},
-    {"id":10,"name":"Uthay","age":33,"District":"Jaffna"}
+  {
+    "id": 1,
+    "name": "John",
+    "age": 22,
+    "district": "Jaffna "
+  },
+  {
+    "id": 2,
+    "name": "Krishna",
+    "age": 26,
+    "district": "Colombo"
+  },
+  {
+    "id": 3,
+    "name": "Kumar",
+    "age": "27",
+    "district": "Kandy"
+  },
+  {
+    "id": 4,
+    "name": "Ram",
+    "age": 27,
+    "district": "Galle"
+  },
+  {
+    "id": 6,
+    "name": "Ravikumar",
+    "age": 41,
+    "district": "Vavuniya"
+  },
+  {
+    "id": 8,
+    "name": "Guna",
+    "age": 19,
+    "district": "Jaffna "
+  },
+  {
+    "id": 9,
+    "name": "Pavi",
+    "age": 23,
+    "district": "Colombo"
+  },
+  {
+    "id": 10,
+    "name": "Uthay",
+    "age": 33,
+    "district": "Galle"
+  },
+  {
+    "id": 1719640243296,
+    "name": "Rk",
+    "age": "23",
+    "district": "Jaffna "
+  }
 ]
